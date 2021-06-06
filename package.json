@@ -1,5 +1,5 @@
 {
-  "name": "simple-console-logger",
+  "name": "node-console-logg",
   "version": "1.0.0",
   "description": "Simple and easy to use console logger for HTTP request on Node.js",
   "main": "logger.js",
