@@ -1,6 +1,6 @@
 {
   "name": "express-console-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple and easy to use console logger for HTTP request on Express.js",
   "main": "logger.js",
   "scripts": {
