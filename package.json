@@ -1,0 +1,29 @@
+{
+  "name": "simple-console-logger",
+  "version": "1.0.0",
+  "description": "Simple and easy to use console logger for HTTP request on Node.js",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgmark101/node-console-logger"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "console",
+    "logger",
+    "http"
+  ],
+  "author": "Marcos Yeguez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cgmark101/node-console-logger/issues"
+  },
+  "homepage": "https://github.com/cgmark101/node-console-logger#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
