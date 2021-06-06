@@ -1,14 +1,14 @@
 {
-  "name": "node-console-logg",
+  "name": "express-console-logger",
   "version": "1.0.0",
-  "description": "Simple and easy to use console logger for HTTP request on Node.js",
+  "description": "Simple and easy to use console logger for HTTP request on Express.js",
   "main": "logger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cgmark101/node-console-logger"
+    "url": "git+https://github.com/cgmark101/express-console-logger"
   },
   "keywords": [
     "node",

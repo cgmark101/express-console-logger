@@ -1,17 +1,5 @@
-# Express-console-logger
-Simple and easy to use console logger for HTTP request on Node.js
-
-# Installing:
-Start by installing express if you dont have it and the logger
-```bash
-$ npm install express 
-$ npm install express-console-logger
-```
-
-# Example
-```js
 const express = require('express')
-const { status_xxx } = require('express-console-logger')
+const { status_xxx } = require('node-console-logg')
 const PORT = 5000
 
 app = express()
@@ -34,5 +22,3 @@ app.use(function (req, res, next) {
 app.listen(PORT, () => {
     console.log(`Server has started and listening at port ${PORT}`)
 });
-```
-
