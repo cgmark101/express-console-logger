@@ -1,12 +1,15 @@
 # Express-console-logger
-Simple and easy to use console logger for HTTP request on Node.js
+Simple and easy to use console logger for HTTP request on Express.js
+
 
 # Installing:
-Start by installing express if you dont have it and the logger
+Start by installing express if you do not have it then the logger
+
 ```bash
-$ npm install express 
-$ npm install express-console-logger
+$ npm i express
+$ npm i express-console-logger
 ```
+
 
 # Example
 ```js
@@ -36,3 +39,5 @@ app.listen(PORT, () => {
 });
 ```
 
+# Output sample:
+![output](https://cdn.jsdelivr.net/gh/cgmark101/express-console-logger@main/resources/console-output.png "output console sample")
