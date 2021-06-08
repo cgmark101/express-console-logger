@@ -40,7 +40,7 @@ app.listen(PORT, () => {
 });
 ```
 
-### Or as Middleware
+### Or as a Middleware
 ```js
 const express = require('express')
 const { status_xxx } = require('express-console-logger')
